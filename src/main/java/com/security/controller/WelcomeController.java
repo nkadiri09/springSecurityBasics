@@ -1,4 +1,4 @@
-package com.securitybasics.controller;
+package com.security.controller;
 
 
 import org.springframework.beans.factory.annotation.Value;
