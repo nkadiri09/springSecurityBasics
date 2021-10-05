@@ -1,1 +1,4 @@
 # springSecurityBasics
+
+
+## Basic Authentication example
